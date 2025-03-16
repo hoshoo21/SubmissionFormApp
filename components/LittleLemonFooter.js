@@ -5,7 +5,7 @@ import {Text,View,StyleSheet} from 'react-native';
 const LittleLemonFooter =(props)=>{
     return (
         <View>
-            <Text style={styles.textStyle} > All rights reserved by Little Lemon, 2022 </Text>
+            <Text style={styles.textStyle} > All rights reserved, 2022 </Text>
         </View>
     )
 
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
         fontSize : 18,
         color:'black',
         textAlign:'center',
-        backgroundColor:'yellow'
+        backgroundColor:'#F4CE14'
     }
 });
 

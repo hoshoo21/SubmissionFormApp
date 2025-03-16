@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         fontSize : 25,
         color:'black',
         textAlign:'center',
-        backgroundColor:'yellow'
+        backgroundColor:'#F4CE14'
     }
 });
 
